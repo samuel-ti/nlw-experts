@@ -1,3 +1,4 @@
+/*
 const perguntas = [
     {
       pergunta: "O que é JavaScript?",
@@ -86,6 +87,99 @@ const perguntas = [
         "Uma biblioteca de animação",
         "Uma técnica para comunicação assíncrona com o servidor",
         "Um método de estilização de páginas web",
+      ],
+      correta: 1
+    },
+  ];
+*/
+const perguntas = [
+    {
+      pergunta: "Qual é o papel da arte no processo de alfabetização de jovens e adultos?",
+      respostas: [
+        "Apenas uma forma de entretenimento",
+        "Contribui para o desenvolvimento da expressão e compreensão cultural",
+        "Irrelevante para a alfabetização",
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "Como a arte pode ser integrada ao ensino da leitura e escrita?",
+      respostas: [
+        "Não tem relação com o ensino da leitura e escrita",
+        "Através da criação de atividades que envolvam a produção de textos artísticos",
+        "Substituindo as aulas de língua portuguesa",
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "Quais são os benefícios de incluir atividades artísticas na alfabetização de adultos?",
+      respostas: [
+        "Nenhum benefício significativo",
+        "Estimula a criatividade, a expressão e a autoconfiança",
+        "Aumenta a dificuldade no aprendizado",
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "Como a arte pode ser utilizada para abordar questões sociais na alfabetização?",
+      respostas: [
+        "Ignorando questões sociais",
+        "Utilizando a arte como uma ferramenta para discutir e refletir sobre questões sociais",
+        "Separando completamente arte e alfabetização",
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "Qual é a importância da apreciação artística no processo de alfabetização?",
+      respostas: [
+        "Nenhuma importância",
+        "Desenvolve a sensibilidade estética e a capacidade de análise crítica",
+        "Diminui o interesse pela leitura",
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "Como as práticas artísticas podem contribuir para a construção da identidade dos adultos?",
+      respostas: [
+        "Não têm impacto na construção da identidade",
+        "Proporcionando meios de expressão e reflexão sobre a própria identidade",
+        "Causando confusão na identidade",
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "O que são práticas interdisciplinares no contexto da alfabetização por meio da arte?",
+      respostas: [
+        "Isolamento de disciplinas",
+        "Integração de diferentes disciplinas, incluindo a arte, para promover uma aprendizagem mais completa",
+        "Desprezo pela arte em favor de outras disciplinas",
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "Qual é o objetivo principal do uso de atividades artísticas na alfabetização de jovens e adultos?",
+      respostas: [
+        "Entretenimento superficial",
+        "Desenvolver habilidades criativas e críticas",
+        "Substituir o ensino tradicional",
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "Como os educadores podem adaptar práticas artísticas para atender às necessidades específicas de adultos na alfabetização?",
+      respostas: [
+        "Ignorar as necessidades específicas",
+        "Customizando atividades para atender às necessidades e experiências dos adultos",
+        "Padronizando todas as atividades artísticas",
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "Por que a abordagem centrada no aluno é relevante ao ensinar arte na alfabetização de jovens e adultos?",
+      respostas: [
+        "A abordagem centrada no aluno não é relevante",
+        "Reconhece e valoriza as experiências e perspectivas dos alunos, promovendo um aprendizado mais significativo",
+        "Torna o ensino menos eficaz",
       ],
       correta: 1
     },

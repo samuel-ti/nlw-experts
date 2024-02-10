@@ -17,7 +17,7 @@ Cascade Selector Style
 const mensagem = "Bom dia!"
 alert(mensagem + (10 * 100) + " abraços")
 //
-´´´
+```
 
 ### Array ou vetores
 
