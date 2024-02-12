@@ -91,7 +91,7 @@ const perguntas = [
       correta: 1
     },
   ];
-*/
+
 const perguntas = [
     {
       pergunta: "Qual é o papel da arte no processo de alfabetização de jovens e adultos?",
@@ -184,7 +184,100 @@ const perguntas = [
       correta: 1
     },
   ];
-  
+*/
+const perguntas = [
+  {
+    pergunta: "Quem é considerado o maior piloto de Fórmula 1 dos últimos 20 anos?",
+    respostas: [
+      "Ayrton Senna",
+      "Michael Schumacher",
+      "Lewis Hamilton",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Quantos títulos mundiais Lewis Hamilton conquistou nos últimos 20 anos?",
+    respostas: [
+      "2",
+      "5",
+      "7",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual equipe foi dominante durante a década de 2010 na Fórmula 1?",
+    respostas: [
+      "Ferrari",
+      "Red Bull Racing",
+      "Mercedes",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Quem é o piloto mais jovem a vencer um Grande Prêmio na Fórmula 1?",
+    respostas: [
+      "Max Verstappen",
+      "Sebastian Vettel",
+      "Charles Leclerc",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é o recorde de poles consecutivas na F1 estabelecido por Sebastian Vettel?",
+    respostas: [
+      "5",
+      "9",
+      "15",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual piloto brasileiro conquistou um título mundial nos últimos 20 anos?",
+    respostas: [
+      "Rubens Barrichello",
+      "Felipe Massa",
+      "Nelson Piquet",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Quem é conhecido como 'Iceman' na Fórmula 1?",
+    respostas: [
+      "Kimi Räikkönen",
+      "Fernando Alonso",
+      "Jenson Button",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual piloto britânico se tornou o primeiro heptacampeão mundial na F1?",
+    respostas: [
+      "Jenson Button",
+      "Nigel Mansell",
+      "Lewis Hamilton",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual equipe é conhecida pela cor vermelha em sua pintura?",
+    respostas: [
+      "Mercedes",
+      "Ferrari",
+      "Red Bull Racing",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Quem é o piloto mais jovem a conquistar um título mundial na Fórmula 1?",
+    respostas: [
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Michael Schumacher",
+    ],
+    correta: 1
+  },
+];
+
   const quiz = document.querySelector('#quiz')
   const template = document.querySelector('template')
   
